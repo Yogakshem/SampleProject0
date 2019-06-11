@@ -6,7 +6,7 @@ class HelloWorld
 		int x,y;
 		x=Integer.parseInt(args[0]);
 		y=Integer.parseInt(args[1]);
-		sum(x,y);
+		//sum(x,y);
 
 	}
 	static void sum(int a,int b)
